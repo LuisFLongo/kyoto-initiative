@@ -8,6 +8,10 @@ estimated uncertainties, to the data analysis group, who will perform a
 careful comparison between all models. The results will be documented in
 a paper, with all participating groups listed as co-authors.
 
+This comparison primarily focuses on gravitational-waves. However, groups
+are encouraged to save ejecta data, remnant disk data, for a possible
+follow up comparison.
+
 At this time, we are in the planning phase for this effort.
 
 ## Timeline
@@ -18,7 +22,7 @@ This is a proposed timeline, details TBD
   [Multi-Messenger Astrophysics in the Dynamic
   Universe](https://www2.yukawa.kyoto-u.ac.jp/~mm2026/).
 
-* Early March 2026: this document should be finalized. The project will
+* Mid March 2026: this document should be finalized. The project will
   be announced to the broader community and open to anyone who wants to join.
 
 * By early summer 2026: deadline for groups to "pre-register" their submission.
@@ -58,9 +62,7 @@ YITP workshop, the same time to produce waveforms.
 
 ## Simulations Parameters
 
-Simulation codes may employ the CompOSE equation of state in tabular form,
-or in the form of analytic fits (e.g., piecewise polytrope +
-$\Gamma$-thermal ideal-gas).
+Simulation codes should employ the CompOSE equation of state in tabular form.
 
 To keep costs under control, simulations should employ a grid spacing
 between 0.05 and 0.5 $M_\odot$.
@@ -74,11 +76,11 @@ team prefers. The submission format will be determined by the data analysis team
 
 ## Data Analysis
 
-**Data analysis lead:** TBD
+**Data analysis lead:** Jocelyn Read <jread@Fullerton.edu>
 
 The data analysis group has the following tasks:
 
-* Develop a specification for the data format (by early March 2026)
+* Develop a specification for the data format (by mid March 2026)
 * Propose a set of analysis diagnostics (by early summer 2026)
 * Develop analysis scripts (by summer 2027)
 * Analyze data, prepare figures (by end of summer 2027)
