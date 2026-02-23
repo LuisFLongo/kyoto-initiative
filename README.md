@@ -127,13 +127,15 @@ This also ensures that all groups are given the same space.
 * **Spokesperson:** David Radice <dur566@psu.edu>
 * **URL:** https://www.github.com/ias-astrophysics/athenak
 
-### SACRA-MPI
-
-* **Spokeperson:** Kenta Kiuchi <kenta.kiuchi@aei.mpg.de>
-
 ### NANASI
 
 * **Spokeperson:** Kenta Kiuchi <kenta.kiuchi@aei.mpg.de>
+* **URL:** https://doi.org/10.1103/PhysRevD.106.124041
+
+### SACRA-MPI
+
+* **Spokeperson:** Kenta Kiuchi <kenta.kiuchi@aei.mpg.de>
+* **URL:** https://doi.org/10.1103/zmdc-xkcm
 
 
 ## Policies
